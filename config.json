@@ -1,0 +1,18 @@
+{
+    "token": "mfa.isr4RTXyK9G-J1aA-awYuGm6wQzAc1kTm2dWdHNNfdy79l4T5OfNmesOXEOWh3Cdv3159_kWxYDOkF4QVz8g" ,
+    "password": "rip20062006", 
+    "prefix": "$",  
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": false, 
+    "slotbot_sniper": true,
+    "privnote_sniper": true, 
+
+    "stream_url": "stream-url-here",
+    "tts_language": "en",
+
+    "bitly_key": "bitley-key-here", 
+    "cat_key": "cat-key-here", 
+    "weather_key": "weather-key-here", 
+    "cuttly_key": "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=cat" 
+}
