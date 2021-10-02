@@ -361,7 +361,7 @@ def Init():
         Clear()
         print(f"{Fore.RED}[ERROR] {Fore.YELLOW}You didnt put your token in the config.json file"+Fore.RESET)
     else:
-        token = config.get('token')
+        token = config.evn.get('token')
         try:
             Alucard.run(token, bot=False, reconnect=True)
             os.system(f'title (BlueBerry Selfbot) - Version {SELFBOT.__version__}')
